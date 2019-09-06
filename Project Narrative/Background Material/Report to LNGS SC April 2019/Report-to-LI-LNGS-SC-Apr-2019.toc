@@ -1,0 +1,20 @@
+\contentsline {title}{Report to the LI LNGS Scientific Committee}{i}{section*.1}
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{iii}{section*.2}
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}Collaboration matters}{1}{section*.3}
+\contentsline {section}{\numberline {II}\unhbox \voidb@x \hbox {DarkSide-50}}{1}{section*.4}
+\contentsline {section}{\numberline {III}\unhbox \voidb@x \hbox {DarkSide-20k}\ inner detector}{1}{section*.5}
+\contentsline {subsection}{\numberline {A}TPC}{1}{section*.6}
+\contentsline {subsection}{\numberline {B}Cryogenics}{1}{section*.7}
+\contentsline {section}{\numberline {IV}Veto}{2}{section*.8}
+\contentsline {section}{\numberline {V}PhotoElectronics}{2}{section*.9}
+\contentsline {section}{\numberline {VI}\unhbox \voidb@x \hbox {DAQ}}{3}{section*.10}
+\contentsline {section}{\numberline {VII}Material assays}{3}{section*.11}
+\contentsline {section}{\numberline {VIII}Argon procurement and purification}{3}{section*.12}
+\contentsline {subsection}{\numberline {A}Underground Argon Extraction and Purification: \unhbox \voidb@x \hbox {Urania}}{3}{section*.13}
+\contentsline {subsection}{\numberline {B}Final Argon Purification: Aria}{3}{section*.14}
+\contentsline {subsection}{\numberline {C}Argon radioactivity assessment: DArT}{4}{section*.15}
+\contentsline {section}{\numberline {IX}ReD}{4}{section*.16}
+\contentsline {section}{\numberline {X}Calibrations}{4}{section*.17}
+\contentsline {section}{\numberline {XI}Science and simulation}{5}{section*.18}

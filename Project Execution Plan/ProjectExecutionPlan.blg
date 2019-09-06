@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: ProjectExecutionPlan.aux
+The style file: src/ds.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ProjectExecutionPlanNotes.bib
+Database file #2: src/ds.bib
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+Reallocated buffer (elt_size=1) to 60000 items from 40000.
+Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
+Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
+Reallocated out_buf (elt_size=1) to 60000 items from 40000.
+Reallocated name_tok (elt_size=4) to 60000 items from 40000.
+Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 30 entries,
+            3967 wiz_defined-function locations,
+            1520 strings with 30753 characters,
+and the built_in function-call counts, 18336 in all, are:
+= -- 1027
+> -- 556
+< -- 66
++ -- 353
+- -- 118
+* -- 2657
+:= -- 2117
+add.period$ -- 30
+call.type$ -- 30
+change.case$ -- 120
+chr.to.int$ -- 29
+cite$ -- 30
+duplicate$ -- 1642
+empty$ -- 1535
+format.name$ -- 326
+if$ -- 3408
+int.to.chr$ -- 2
+int.to.str$ -- 31
+missing$ -- 283
+newline$ -- 105
+num.names$ -- 90
+pop$ -- 325
+preamble$ -- 1
+purify$ -- 120
+quote$ -- 0
+skip$ -- 623
+stack$ -- 0
+substring$ -- 635
+swap$ -- 1474
+text.length$ -- 56
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 180
+warning$ -- 0
+while$ -- 86
+width$ -- 0
+write$ -- 281

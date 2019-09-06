@@ -1,0 +1,46 @@
+\BOOKMARK [0][-]{section*.1}{DarkSide-20k Intermediate Design Report}{}% 1
+\BOOKMARK [1][-]{section*.2}{Contents}{section*.1}% 2
+\BOOKMARK [1][-]{section*.3}{List of Figures}{section*.1}% 3
+\BOOKMARK [1][-]{section*.4}{List of Tables}{section*.1}% 4
+\BOOKMARK [1][-]{section*.5}{Project Overview}{section*.1}% 5
+\BOOKMARK [1][-]{section*.6}{Photoelectronics}{section*.1}% 6
+\BOOKMARK [2][-]{section*.7}{PhotoDetector Modules \(PDM\)}{section*.6}% 7
+\BOOKMARK [2][-]{section*.8}{Signal Transmission}{section*.6}% 8
+\BOOKMARK [2][-]{section*.9}{PDM Fabrication and Characterization}{section*.6}% 9
+\BOOKMARK [2][-]{section*.10}{Motherboard Assembly}{section*.6}% 10
+\BOOKMARK [2][-]{section*.11}{Mass Production}{section*.6}% 11
+\BOOKMARK [1][-]{section*.12}{Inner Detector and Cryogenics System}{section*.1}% 12
+\BOOKMARK [2][-]{section*.13}{DS-20k LAr TPC}{section*.12}% 13
+\BOOKMARK [2][-]{section*.14}{Cryogenics}{section*.12}% 14
+\BOOKMARK [1][-]{section*.15}{Material Assays}{section*.1}% 15
+\BOOKMARK [2][-]{section*.16}{Radio-purity database}{section*.15}% 16
+\BOOKMARK [2][-]{section*.17}{Managing Assay Capabilities}{section*.15}% 17
+\BOOKMARK [2][-]{section*.18}{Radioactive budget}{section*.15}% 18
+\BOOKMARK [1][-]{section*.19}{Calibration}{section*.1}% 19
+\BOOKMARK [2][-]{section*.20}{Distributed Gas Sources}{section*.19}% 20
+\BOOKMARK [2][-]{section*.21}{Gamma Sources}{section*.19}% 21
+\BOOKMARK [2][-]{section*.22}{Neutron Sources}{section*.19}% 22
+\BOOKMARK [2][-]{section*.23}{Guide Tube System}{section*.19}% 23
+\BOOKMARK [1][-]{section*.24}{Veto Detector}{section*.1}% 24
+\BOOKMARK [2][-]{section*.25}{Overall Design}{section*.24}% 25
+\BOOKMARK [2][-]{section*.26}{Assembly}{section*.24}% 26
+\BOOKMARK [2][-]{section*.27}{Background Rejection}{section*.24}% 27
+\BOOKMARK [1][-]{section*.28}{Data Acquisition}{section*.1}% 28
+\BOOKMARK [2][-]{section*.29}{General DAQ scheme}{section*.28}% 29
+\BOOKMARK [2][-]{section*.30}{Digitizers}{section*.28}% 30
+\BOOKMARK [2][-]{section*.31}{DAQ software}{section*.28}% 31
+\BOOKMARK [1][-]{section*.32}{Computing}{section*.1}% 32
+\BOOKMARK [2][-]{section*.33}{Computing systems and data workflow}{section*.32}% 33
+\BOOKMARK [2][-]{section*.34}{Software Environment}{section*.32}% 34
+\BOOKMARK [2][-]{section*.35}{Simulation}{section*.32}% 35
+\BOOKMARK [1][-]{section*.36}{The ReD Experiment}{section*.1}% 36
+\BOOKMARK [1][-]{section*.37}{DarkSide-Proto}{section*.1}% 37
+\BOOKMARK [2][-]{section*.38}{Prototype Overview and Status}{section*.37}% 38
+\BOOKMARK [2][-]{section*.39}{The DS-Proto TPC}{section*.37}% 39
+\BOOKMARK [2][-]{section*.40}{Materials for DarkSide-Proto}{section*.37}% 40
+\BOOKMARK [2][-]{section*.41}{Validation tests and operation}{section*.37}% 41
+\BOOKMARK [1][-]{section*.42}{AAr Cryostat}{section*.1}% 42
+\BOOKMARK [1][-]{section*.43}{Argon Procurement and Purification}{section*.1}% 43
+\BOOKMARK [2][-]{section*.44}{Urania}{section*.43}% 44
+\BOOKMARK [2][-]{section*.45}{Aria}{section*.43}% 45
+\BOOKMARK [2][-]{section*.46}{DArT}{section*.43}% 46

@@ -1,0 +1,48 @@
+\contentsline {title}{\unhbox \voidb@x \hbox {DarkSide-20k}\ Intermediate Design Report}{i}{section*.1}% 
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{iv}{section*.2}% 
+\tocdepth@restore 
+\contentsline {section}{\numberline {}List of Figures}{vi}{section*.3}% 
+\contentsline {section}{\numberline {}List of Tables}{vii}{section*.4}% 
+\contentsline {section}{\numberline {1}Project Overview}{1}{section*.5}% 
+\contentsline {section}{\numberline {2}Photoelectronics}{4}{section*.6}% 
+\contentsline {subsection}{\numberline {2.1}PhotoDetector Modules (\unhbox \voidb@x \hbox {PDM})}{5}{section*.7}% 
+\contentsline {subsection}{\numberline {2.2}Signal Transmission}{6}{section*.8}% 
+\contentsline {subsection}{\numberline {2.3}\unhbox \voidb@x \hbox {PDM}\ Fabrication and Characterization}{6}{section*.9}% 
+\contentsline {subsection}{\numberline {2.4}Motherboard Assembly}{8}{section*.10}% 
+\contentsline {subsection}{\numberline {2.5}Mass Production}{9}{section*.11}% 
+\contentsline {section}{\numberline {3}Inner Detector and Cryogenics System}{9}{section*.12}% 
+\contentsline {subsection}{\numberline {3.1}\unhbox \voidb@x \hbox {DS-20k}\ \unhbox \voidb@x \hbox {LAr\nobreakspace {}TPC}}{9}{section*.13}% 
+\contentsline {subsection}{\numberline {3.2}Cryogenics}{15}{section*.14}% 
+\contentsline {section}{\numberline {4}Material Assays}{21}{section*.15}% 
+\contentsline {subsection}{\numberline {4.1}Radio-purity database}{22}{section*.16}% 
+\contentsline {subsection}{\numberline {4.2}Managing Assay Capabilities}{23}{section*.17}% 
+\contentsline {subsection}{\numberline {4.3}Radioactive budget}{23}{section*.18}% 
+\contentsline {section}{\numberline {5}Calibration}{24}{section*.19}% 
+\contentsline {subsection}{\numberline {5.1}Distributed Gas Sources}{24}{section*.20}% 
+\contentsline {subsection}{\numberline {5.2}Gamma Sources}{25}{section*.21}% 
+\contentsline {subsection}{\numberline {5.3}Neutron Sources}{25}{section*.22}% 
+\contentsline {subsection}{\numberline {5.4}Guide Tube System}{27}{section*.23}% 
+\contentsline {section}{\numberline {6}Veto Detector}{28}{section*.24}% 
+\contentsline {subsection}{\numberline {6.1}Overall Design}{28}{section*.25}% 
+\contentsline {subsection}{\numberline {6.2}Assembly}{29}{section*.26}% 
+\contentsline {subsection}{\numberline {6.3}Background Rejection}{30}{section*.27}% 
+\contentsline {section}{\numberline {7}Data Acquisition}{32}{section*.28}% 
+\contentsline {subsection}{\numberline {7.1}General DAQ scheme}{32}{section*.29}% 
+\contentsline {subsection}{\numberline {7.2}Digitizers}{33}{section*.30}% 
+\contentsline {subsection}{\numberline {7.3}DAQ software}{33}{section*.31}% 
+\contentsline {section}{\numberline {8}Computing}{34}{section*.32}% 
+\contentsline {subsection}{\numberline {8.1}Computing systems and data workflow}{34}{section*.33}% 
+\contentsline {subsection}{\numberline {8.2}Software Environment}{35}{section*.34}% 
+\contentsline {subsection}{\numberline {8.3}Simulation}{36}{section*.35}% 
+\contentsline {section}{\numberline {9}The R\lowercase {e}D Experiment}{36}{section*.36}% 
+\contentsline {section}{\numberline {10}\unhbox \voidb@x \hbox {DarkSide-Proto}}{40}{section*.37}% 
+\contentsline {subsection}{\numberline {10.1}Prototype Overview and Status}{40}{section*.38}% 
+\contentsline {subsection}{\numberline {10.2}The \unhbox \voidb@x \hbox {DS-Proto}\ \unhbox \voidb@x \hbox {TPC}}{41}{section*.39}% 
+\contentsline {subsection}{\numberline {10.3}Materials for DarkSide-Proto}{43}{section*.40}% 
+\contentsline {subsection}{\numberline {10.4}Validation tests and operation}{43}{section*.41}% 
+\contentsline {section}{\numberline {11}AAr Cryostat}{43}{section*.42}% 
+\contentsline {section}{\numberline {12}Argon Procurement and Purification}{47}{section*.43}% 
+\contentsline {subsection}{\numberline {12.1}\unhbox \voidb@x \hbox {Urania}}{47}{section*.44}% 
+\contentsline {subsection}{\numberline {12.2}\unhbox \voidb@x \hbox {Aria}}{52}{section*.45}% 
+\contentsline {subsection}{\numberline {12.3}\unhbox \voidb@x \hbox {DArT}}{54}{section*.46}% 
