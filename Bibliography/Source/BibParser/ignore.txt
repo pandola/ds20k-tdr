@@ -1,0 +1,12 @@
+file
+abstract
+language
+read
+rating
+date-added
+date-modified
+local-url
+annote
+month
+uri
+
