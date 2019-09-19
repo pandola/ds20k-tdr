@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: IntermediateDesignReport.aux
+The style file: src/ds.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: IntermediateDesignReportNotes.bib
+Database file #2: src/ds.bib
+Reallocated buffer (elt_size=1) to 40000 items from 20000.
+Reallocated sv_buffer (elt_size=1) to 40000 items from 20000.
+Reallocated ex_buf (elt_size=1) to 40000 items from 20000.
+Reallocated out_buf (elt_size=1) to 40000 items from 20000.
+Reallocated name_tok (elt_size=4) to 40000 items from 20000.
+Reallocated name_sep_char (elt_size=1) to 40000 items from 20000.
+Reallocated buffer (elt_size=1) to 60000 items from 40000.
+Reallocated sv_buffer (elt_size=1) to 60000 items from 40000.
+Reallocated ex_buf (elt_size=1) to 60000 items from 40000.
+Reallocated out_buf (elt_size=1) to 60000 items from 40000.
+Reallocated name_tok (elt_size=4) to 60000 items from 40000.
+Reallocated name_sep_char (elt_size=1) to 60000 items from 40000.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 52 entries,
+            3967 wiz_defined-function locations,
+            1686 strings with 97487 characters,
+and the built_in function-call counts, 32750 in all, are:
+= -- 1822
+> -- 1000
+< -- 125
++ -- 658
+- -- 214
+* -- 4838
+:= -- 3709
+add.period$ -- 52
+call.type$ -- 52
+change.case$ -- 208
+chr.to.int$ -- 42
+cite$ -- 52
+duplicate$ -- 2930
+empty$ -- 2723
+format.name$ -- 576
+if$ -- 6083
+int.to.chr$ -- 11
+int.to.str$ -- 53
+missing$ -- 505
+newline$ -- 171
+num.names$ -- 156
+pop$ -- 547
+preamble$ -- 1
+purify$ -- 208
+quote$ -- 0
+skip$ -- 1081
+stack$ -- 0
+substring$ -- 1165
+swap$ -- 2714
+text.length$ -- 107
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 312
+warning$ -- 0
+while$ -- 152
+width$ -- 0
+write$ -- 483
