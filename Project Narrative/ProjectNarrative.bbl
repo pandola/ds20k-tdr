@@ -1,0 +1,523 @@
+\begin{thebibliography}{71}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{{CERN}}(2017)}]{CERN:2017cq}
+\bibinfo{author}{\bibnamefont{{CERN}}},
+  \href{http://dx.doi.org/10.23731/CYRM-2017-003}{\bibinfo{journal}{CERN Yell.
+  Rep. Mon.} \bibinfo{year}{ (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Amaudruz et~al.}(2018)}]{Amaudruz:2018gr}
+\bibinfo{author}{\bibfnamefont{P.~A.} \bibnamefont{Amaudruz}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The DEAP-3600 Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevLett.121.071801}{\bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{121}},
+  \bibinfo{pages}{071801}\bibinfo{year}{ (\bibinfo{year}{2018})}}.
+
+\bibitem[{\citenamefont{Ajaj et~al.}(2019)}]{Ajaj:2019wi}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Ajaj}}  \bibnamefont{et~al.},
+  \href{http://arxiv.org/abs/1902.04048v1}{\bibinfo{journal}{arXiv}:1902.04048v1\bibinfo{year}{
+  (\bibinfo{year}{2019})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2015)}]{Agnes:2015gu}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1016/j.physletb.2015.03.012}{\bibinfo{journal}{Phys.
+  Lett. B} \textbf{\bibinfo{volume}{743}}, \bibinfo{pages}{456}\bibinfo{year}{
+  (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2016{\natexlab{a}})}]{Agnes:2016fz}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevD.93.081101}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{93}}, \bibinfo{pages}{081101}\bibinfo{year}{
+  (\bibinfo{year}{2016}{\natexlab{a}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2018{\natexlab{a}})}]{Agnes:2018ep}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevD.98.102006}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{98}}, \bibinfo{pages}{102006}\bibinfo{year}{
+  (\bibinfo{year}{2018}{\natexlab{a}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2018{\natexlab{b}})}]{Agnes:2018fg}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevLett.121.081307}{\bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{121}},
+  \bibinfo{pages}{081307}\bibinfo{year}{
+  (\bibinfo{year}{2018}{\natexlab{b}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2018{\natexlab{c}})}]{Agnes:2018ft}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevLett.121.111303}{\bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{121}},
+  \bibinfo{pages}{111303}\bibinfo{year}{
+  (\bibinfo{year}{2018}{\natexlab{c}})}}.
+
+\bibitem[{\citenamefont{Abi et~al.}(2017)}]{Abi:2017wp}
+\bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Abi}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DUNE Collaboration}),
+  \href{http://arxiv.org/abs/1706.07081v2}{\bibinfo{journal}{arXiv}:1706.07081v2\bibinfo{year}{
+  (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Acciarri et~al.}(2016)}]{Acciarri:2016wz}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Acciarri}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The DUNE Collaboration}),
+  \href{http://arxiv.org/abs/1601.05471v1}{\bibinfo{journal}{arXiv}:1601.05471v1\bibinfo{year}{
+  (\bibinfo{year}{2016})}}.
+
+\bibitem[{\citenamefont{{Heraeus Deutschland GmbH {\&} CO.
+  Kg}}(2019)}]{HeraeusDeutschlandGmbHandCOKg:2019wt}
+\bibinfo{author}{\bibnamefont{{Heraeus Deutschland GmbH {\&} CO. Kg}}},
+  \href{https://www.heraeus.com/en/hep/products_hep/clevios/clevios_prod/clevios_1.aspx}{
+  \emph{{CLEVIOS{\texttrademark} PEDOT}} (\bibinfo{year}{2019})}.
+
+\bibitem[{\citenamefont{Angloher et~al.}(2012)}]{Angloher:2012kl}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Angloher}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The CRESST Collaboration}),
+  \href{http://dx.doi.org/10.1140/epjc/s10052-012-1971-8}{\bibinfo{journal}{Eur.
+  Phys. J. C} \textbf{\bibinfo{volume}{72}},
+  \bibinfo{pages}{1971}\bibinfo{year}{ (\bibinfo{year}{2012})}}.
+
+\bibitem[{\citenamefont{Akerib et~al.}(2017)}]{Akerib:2017kg}
+\bibinfo{author}{\bibfnamefont{D.~S.} \bibnamefont{Akerib}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The LUX Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevLett.118.021303}{\bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{118}},
+  \bibinfo{pages}{021303}\bibinfo{year}{ (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Cui et~al.}(2017)}]{Cui:2017kg}
+\bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Cui}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The PandaX-II Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevLett.119.181302}{\bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{119}},
+  \bibinfo{pages}{181302}\bibinfo{year}{ (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Aprile et~al.}(2018)}]{Aprile:2018ct}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Aprile}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The XENON Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevLett.121.111302}{\bibinfo{journal}{Phys.
+  Rev. Lett.} \textbf{\bibinfo{volume}{121}},
+  \bibinfo{pages}{111302}\bibinfo{year}{ (\bibinfo{year}{2018})}}.
+
+\bibitem[{\citenamefont{Collaboration}(2018)}]{TheATLASCollaboration:2018to}
+\bibinfo{author}{\bibfnamefont{T.~A.} \bibnamefont{Collaboration}},
+  \href{https://cds.cern.ch/record/2646248}{\bibinfo{journal}{CERN Doc. Serv.}
+  \bibinfo{year}{ (\bibinfo{year}{2018})}}.
+
+\bibitem[{\citenamefont{Nelson}(2014)}]{Nelson:2014wy}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Nelson}}
+  (\bibinfo{affiliation}{For The LZ Collaboration}), Presentation
+  at\bibinfo{booktitle}{ \href{https://hepconf.physics.ucla.edu/dm14/}{DM 2014
+  (2014)}}.
+
+\bibitem[{\citenamefont{Kudryavtsev}(2015)}]{Kudryavtsev:2015hy}
+\bibinfo{author}{\bibfnamefont{V.~A.} \bibnamefont{Kudryavtsev}}
+  (\bibinfo{affiliation}{The LZ Collaboration}),
+  \href{http://dx.doi.org/10.1063/1.4927991}{\bibinfo{journal}{AIP Conf. Proc.}
+  \textbf{\bibinfo{volume}{1672}}, \bibinfo{pages}{060003}\bibinfo{year}{
+  (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Aprile}(2015)}]{Aprile:2015wv}
+\bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Aprile}}
+  (\bibinfo{affiliation}{For The XENON Collaboration}), Presentation
+  at\bibinfo{booktitle}{
+  \href{https://agenda.infn.it/conferenceDisplay.py?confId=9608}{LNGS Sci.
+  Comm. Apr. 2015 (2015)}}.
+
+\bibitem[{\citenamefont{Boulay}(2017)}]{Boulay:2017tn}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Boulay}}
+  (\bibinfo{affiliation}{For the DarkSide Collaboration}), Presentation
+  at\bibinfo{booktitle}{
+  \href{https://indico.fnal.gov/conferenceDisplay.py?confId=13702}{New Ideas DM
+  2017 (2017)}}.
+
+\bibitem[{\citenamefont{Agnese et~al.}(2017)}]{Agnese:2017fn}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Agnese}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The SuperCDMS Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevD.95.082002}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{95}}, \bibinfo{pages}{215}\bibinfo{year}{
+  (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Billard et~al.}(2014)\citenamefont{Billard,
+  Figueroa-Feliciano, and Strigari}}]{Billard:2014cx}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Billard}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Figueroa-Feliciano}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Strigari}},
+   \href{http://dx.doi.org/10.1103/PhysRevD.89.023524}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{89}}, \bibinfo{pages}{023524}\bibinfo{year}{
+  (\bibinfo{year}{2014})}}.
+
+\bibitem[{\citenamefont{Abercrombie et~al.}(2015)}]{Abercrombie:2015to}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Abercrombie}}
+  \bibnamefont{et~al.},
+  \href{http://arxiv.org/abs/1507.00966v1}{\bibinfo{journal}{arXiv}:1507.00966v1\bibinfo{year}{
+  (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Aalseth et~al.}(2018)}]{Aalseth:2018gq}
+\bibinfo{author}{\bibfnamefont{C.~E.} \bibnamefont{Aalseth}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1140/epjp/i2018-11973-4}{\bibinfo{journal}{Eur.
+  Phys. J. Plus} \textbf{\bibinfo{volume}{133}},
+  \bibinfo{pages}{131}\bibinfo{year}{ (\bibinfo{year}{2018})}}.
+
+\bibitem[{\citenamefont{D'Incecco
+  et~al.}(2018{\natexlab{a}})}]{DIncecco:2018fx}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{D'Incecco}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1109/TNS.2018.2799325}{\bibinfo{journal}{IEEE
+  Trans. Nucl. Sci.} \textbf{\bibinfo{volume}{65}},
+  \bibinfo{pages}{1005}\bibinfo{year}{ (\bibinfo{year}{2018}{\natexlab{a}})}}.
+
+\bibitem[{\citenamefont{D'Incecco
+  et~al.}(2018{\natexlab{b}})}]{DIncecco:2018hy}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{D'Incecco}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1109/TNS.2017.2774779}{\bibinfo{journal}{IEEE
+  Trans. Nucl. Sci.} \textbf{\bibinfo{volume}{65}},
+  \bibinfo{pages}{591}\bibinfo{year}{ (\bibinfo{year}{2018}{\natexlab{b}})}}.
+
+\bibitem[{\citenamefont{Franco et~al.}(2016)}]{Franco:2016ex}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Franco}}  \bibnamefont{et~al.},
+   \href{http://dx.doi.org/10.1088/1475-7516/2016/08/017}{\bibinfo{journal}{JCAP}
+  \textbf{\bibinfo{volume}{2016}}, \bibinfo{pages}{017}\bibinfo{year}{
+  (\bibinfo{year}{2016})}}.
+
+\bibitem[{\citenamefont{Evans et~al.}(2017)}]{Evans:2017hu}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Evans}}  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1103/PhysRevD.95.023012}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{95}}, \bibinfo{pages}{1180}\bibinfo{year}{
+  (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Honda et~al.}(2011)\citenamefont{Honda, Kajita,
+  Kasahara, and Midorikawa}}]{Honda:2011ey}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Honda}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Kajita}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Kasahara}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Midorikawa}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.83.123001}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{83}}, \bibinfo{pages}{123001}\bibinfo{year}{
+  (\bibinfo{year}{2011})}}.
+
+\bibitem[{\citenamefont{Barr et~al.}(2006)\citenamefont{Barr, Robbins, Gaisser,
+  and Stanev}}]{Barr:2006ih}
+\bibinfo{author}{\bibfnamefont{G.~D.} \bibnamefont{Barr}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Robbins}},
+  \bibinfo{author}{\bibfnamefont{T.~K.} \bibnamefont{Gaisser}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Stanev}},
+  \href{http://dx.doi.org/10.1103/PhysRevD.74.094009}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{74}}, \bibinfo{pages}{323}\bibinfo{year}{
+  (\bibinfo{year}{2006})}}.
+
+\bibitem[{\citenamefont{Tayloe}(2018)}]{Tayloe:2018jn}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Tayloe}},
+  \href{http://dx.doi.org/10.1088/1748-0221/13/04/C04005}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{C04005}\bibinfo{year}{
+  (\bibinfo{year}{2018})}}.
+
+\bibitem[{\citenamefont{Akimov et~al.}(2017)}]{Akimov:2017bs}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Akimov}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The COHERENT Collaboration}),
+  \href{http://dx.doi.org/10.1126/science.aao0990}{\bibinfo{journal}{Science}
+  \textbf{\bibinfo{volume}{357}}, \bibinfo{pages}{1123}\bibinfo{year}{
+  (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Cao et~al.}(2015)}]{Cao:2015ks}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Cao}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The SCENE Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevD.91.092007}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{91}}, \bibinfo{pages}{092007}\bibinfo{year}{
+  (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Alexander et~al.}(2013)}]{Alexander:2013ke}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Alexander}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The SCENE Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevD.88.092006}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{88}}, \bibinfo{pages}{092006}\bibinfo{year}{
+  (\bibinfo{year}{2013})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2018{\natexlab{d}})}]{Agnes:2018cn}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The ARIS Collaboration}),
+  \href{http://dx.doi.org/10.1103/PhysRevD.97.112005}{\bibinfo{journal}{Phys.
+  Rev. D} \textbf{\bibinfo{volume}{97}}, \bibinfo{pages}{10}\bibinfo{year}{
+  (\bibinfo{year}{2018}{\natexlab{d}})}}.
+
+\bibitem[{\citenamefont{Dobson}(2018)}]{Dobson:2018us}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Dobson}}
+  (\bibinfo{affiliation}{For the LZ Collaboration}), Presentation
+  at\bibinfo{booktitle}{ \href{https://indico.cern.ch/event/653314/}{DM 2018
+  (2018)}}.
+
+\bibitem[{\citenamefont{Ostrovskiy et~al.}(2015)}]{Ostrovskiy:2015jl}
+\bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Ostrovskiy}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1109/TNS.2015.2453932}{\bibinfo{journal}{IEEE
+  Trans. Nucl. Sci.} \textbf{\bibinfo{volume}{62}},
+  \bibinfo{pages}{1825}\bibinfo{year}{ (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Cebri{\'a}n et~al.}(2017)}]{Cebrian:2017dy}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Cebri{\'a}n}}
+  \bibnamefont{et~al.} (\bibinfo{affiliation}{The NEXT Collaboration}),
+  \href{http://dx.doi.org/10.1088/1748-0221/12/08/T08003}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{T08003}\bibinfo{year}{
+  (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{G{\'o}mez~Cadenas
+  et~al.}(2016)\citenamefont{G{\'o}mez~Cadenas, Benlloch-Rodriguez, and
+  Ferrario}}]{GomezCadenas:2016cm}
+\bibinfo{author}{\bibfnamefont{J.~J.} \bibnamefont{G{\'o}mez~Cadenas}},
+  \bibinfo{author}{\bibfnamefont{J.~M.} \bibnamefont{Benlloch-Rodriguez}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Ferrario}},
+   \href{http://dx.doi.org/10.1016/j.sab.2016.01.005}{\bibinfo{journal}{Spectrochim.
+  Acta B} \textbf{\bibinfo{volume}{118}}, \bibinfo{pages}{6}\bibinfo{year}{
+  (\bibinfo{year}{2016})}}.
+
+\bibitem[{\citenamefont{Cebri{\'a}n et~al.}(2015)}]{Cebrian:2015du}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Cebri{\'a}n}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1088/1748-0221/10/05/P05006}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{P05006}\bibinfo{year}{
+  (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Boulay}(2012)}]{Boulay:2012er}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Boulay}}
+  (\bibinfo{affiliation}{For The DEAP Collaboration}),
+  \href{http://dx.doi.org/10.1088/1742-6596/375/1/012027}{\bibinfo{journal}{J.
+  Phys. Conf. Ser.} \textbf{\bibinfo{volume}{375}},
+  \bibinfo{pages}{012027}\bibinfo{year}{ (\bibinfo{year}{2012})}}.
+
+\bibitem[{\citenamefont{Nantais et~al.}(2013)\citenamefont{Nantais, Cleveland,
+  and Boulay}}]{Nantais:2013jp}
+\bibinfo{author}{\bibfnamefont{C.~M.} \bibnamefont{Nantais}},
+  \bibinfo{author}{\bibfnamefont{B.~T.} \bibnamefont{Cleveland}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.~G.}
+  \bibnamefont{Boulay}},
+  \href{http://dx.doi.org/10.1063/1.4818105}{\bibinfo{journal}{AIP Conf. Proc.}
+  pp. \bibinfo{pages}{185--188}\bibinfo{year}{ (\bibinfo{year}{2013})}}.
+
+\bibitem[{\citenamefont{{Particle Physics Project Prioritization
+  Panel}}(2014)}]{ParticlePhysicsProjectPrioritizationPanel:2014td}
+\bibinfo{author}{\bibnamefont{{Particle Physics Project Prioritization
+  Panel}}},
+  \href{https://science.energy.gov/~/media/hep/hepap/pdf/May-2014/FINAL_P5_Report_053014.pdf}{
+  \emph{{Building for Discovery - Strategic Plan for U.S. Particle Physics in
+  the Global Context}} (\bibinfo{year}{2014})}.
+
+\bibitem[{\citenamefont{{AstroParticle Physics European
+  Consortium}}(2017)}]{AstroparticlePhysicsEuropeanConsortium:2017wy}
+\bibinfo{author}{\bibnamefont{{AstroParticle Physics European Consortium}}},
+  \href{http://www.appec.org/wp-content/uploads/Documents/Current-docs/APPEC-Strategy-Book-Proof-19-Feb-2018.pdf}{
+  \emph{{European Astroparticle Physics Strategy 2017-2026}}
+  (\bibinfo{year}{2017})}.
+
+\bibitem[{\citenamefont{{US National Science
+  Foundation}}(2014)}]{USNationalScienceFoundation:2014vy}
+\bibinfo{author}{\bibnamefont{{US National Science Foundation}}},
+  \href{https://www.nsf.gov/pubs/2014/nsf14099/nsf14099.jsp}{\bibinfo{journal}{US
+  NSF Pub.} \textbf{\bibinfo{volume}{14-099}}\bibinfo{year}{
+  (\bibinfo{year}{2014})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2017{\natexlab{a}})}]{Agnes:2017ec}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1088/1748-0221/12/12/T12004}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{T12004}\bibinfo{year}{
+  (\bibinfo{year}{2017}{\natexlab{a}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2017{\natexlab{b}})}]{Agnes:2017cz}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1088/1748-0221/12/10/P10015}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{P10015}\bibinfo{year}{
+  (\bibinfo{year}{2017}{\natexlab{b}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2016{\natexlab{b}})}]{Agnes:2016cp}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1088/1748-0221/11/12/P12007}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{P12007}\bibinfo{year}{
+  (\bibinfo{year}{2016}{\natexlab{b}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2017{\natexlab{c}})}]{Agnes:2017cl}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1088/1748-0221/12/01/P01021}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{P01021}\bibinfo{year}{
+  (\bibinfo{year}{2017}{\natexlab{c}})}}.
+
+\bibitem[{\citenamefont{Westerdale and Meyers}(2017)}]{Westerdale:2017vr}
+\bibinfo{author}{\bibfnamefont{S.~S.} \bibnamefont{Westerdale}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{P.~D.}
+  \bibnamefont{Meyers}},
+  \href{http://arxiv.org/abs/1702.02465v2}{\bibinfo{journal}{arXiv}:1702.02465v2\bibinfo{year}{
+  (\bibinfo{year}{2017})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2017{\natexlab{d}})}]{Agnes:2017ck}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1088/1748-0221/12/12/P12011}{\bibinfo{journal}{JINST}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{P12011}\bibinfo{year}{
+  (\bibinfo{year}{2017}{\natexlab{d}})}}.
+
+\bibitem[{\citenamefont{Agnes et~al.}(2018{\natexlab{e}})}]{Agnes:2018dt}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Agnes}}  \bibnamefont{et~al.}
+  (\bibinfo{affiliation}{The DarkSide Collaboration}),
+  \href{http://dx.doi.org/10.1016/j.nima.2018.06.077}{\bibinfo{journal}{Nucl.
+  Inst. Meth. A} \textbf{\bibinfo{volume}{904}},
+  \bibinfo{pages}{23}\bibinfo{year}{ (\bibinfo{year}{2018}{\natexlab{e}})}}.
+
+\bibitem[{\citenamefont{Cao}(2014)}]{Cao:2014tw}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Cao}}
+  (\bibinfo{affiliation}{Princeton University}), Ph.D. thesis,
+  \bibinfo{school}{Princeton University} (\bibinfo{year}{2014}),
+  \urlprefix\url{http://arks.princeton.edu/ark:/88435/dsp0108612q761}.
+
+\bibitem[{\citenamefont{Shea and Morgan}(2010)}]{Shea:2010vz}
+\bibinfo{author}{\bibfnamefont{D.~A.} \bibnamefont{Shea}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Morgan}},
+  \href{http://www.nusaset.org/phocadownload/the%20helium-3%20shortage.pdf}{\bibinfo{journal}{Congr.
+  Res. Serv.} \textbf{\bibinfo{volume}{R41419}},
+  \bibinfo{pages}{R41419:1}\bibinfo{year}{ (\bibinfo{year}{2010})}}.
+
+\bibitem[{\citenamefont{Riedmann and Purtschert}(2011)}]{Riedmann:2011ht}
+\bibinfo{author}{\bibfnamefont{R.~A.} \bibnamefont{Riedmann}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Purtschert}},
+  \href{http://dx.doi.org/10.1021/es201192u}{\bibinfo{journal}{Env. Sci. Tech.}
+  \textbf{\bibinfo{volume}{45}}, \bibinfo{pages}{8656}\bibinfo{year}{
+  (\bibinfo{year}{2011})}}.
+
+\bibitem[{\citenamefont{Theodorsson}(1999)}]{Theodorsson:1999dn}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Theodorsson}},
+  \href{http://dx.doi.org/10.1016/S0969-8043(97)10153-1}{\bibinfo{journal}{App.
+  Radiat. Isot.} \textbf{\bibinfo{volume}{50}},
+  \bibinfo{pages}{311}\bibinfo{year}{ (\bibinfo{year}{1999})}}.
+
+\bibitem[{\citenamefont{Martoff and Lewin}(1992)}]{Martoff:1992bg}
+\bibinfo{author}{\bibfnamefont{C.~J.} \bibnamefont{Martoff}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.~D.} \bibnamefont{Lewin}},
+  \href{http://dx.doi.org/10.1016/0010-4655(92)90008-M}{\bibinfo{journal}{Comp.
+  Phys. Comm.} \textbf{\bibinfo{volume}{72}},
+  \bibinfo{pages}{96}\bibinfo{year}{ (\bibinfo{year}{1992})}}.
+
+\bibitem[{\citenamefont{Aalseth et~al.}(2009)}]{Aalseth:2009je}
+\bibinfo{author}{\bibfnamefont{C.~E.} \bibnamefont{Aalseth}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1007/s10967-009-0258-5}{\bibinfo{journal}{J.
+  Radioanal. Nucl. Chem.} \textbf{\bibinfo{volume}{282}},
+  \bibinfo{pages}{233}\bibinfo{year}{ (\bibinfo{year}{2009})}}.
+
+\bibitem[{\citenamefont{Seifert et~al.}(2012)}]{Seifert:2012ip}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Seifert}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1007/s10967-012-2059-5}{\bibinfo{journal}{J.
+  Radioanal. Nucl. Chem.} \textbf{\bibinfo{volume}{296}},
+  \bibinfo{pages}{915}\bibinfo{year}{ (\bibinfo{year}{2012})}}.
+
+\bibitem[{\citenamefont{Pac{\'a}k et~al.}(1969)\citenamefont{Pac{\'a}k, To{\v
+  c}{\'\i}k, and {\v C}ern{\'{y}}}}]{Pacak:1969cf}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Pac{\'a}k}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{To{\v c}{\'\i}k}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{\v
+  C}ern{\'{y}}}},
+  \href{http://dx.doi.org/10.1039/C29690000077}{\bibinfo{journal}{J. Chem. Soc.
+  D} \textbf{\bibinfo{volume}{0}}, \bibinfo{pages}{77}\bibinfo{year}{
+  (\bibinfo{year}{1969})}}.
+
+\bibitem[{\citenamefont{Som et~al.}(1980)}]{Som:1980vv}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Som}}  \bibnamefont{et~al.},
+  \href{http://jnm.snmjournals.org/content/21/7/670.full.pdf+html}{\bibinfo{journal}{J.
+  Nucl. Med.} \textbf{\bibinfo{volume}{21}},
+  \bibinfo{pages}{670}\bibinfo{year}{ (\bibinfo{year}{1980})}}.
+
+\bibitem[{\citenamefont{Kelloff et~al.}(2005)}]{Kelloff:2005hm}
+\bibinfo{author}{\bibfnamefont{G.~J.} \bibnamefont{Kelloff}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1158/1078-0432.CCR-04-2626}{\bibinfo{journal}{Clin.
+  Cancer Res.} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{2785}\bibinfo{year}{ (\bibinfo{year}{2005})}}.
+
+\bibitem[{\citenamefont{Newberg et~al.}(2002)\citenamefont{Newberg, Alavi, and
+  Reivich}}]{Newberg:2002hq}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Newberg}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Alavi}},  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Reivich}},
+  \href{http://dx.doi.org/10.1053/snuc.2002.29276}{\bibinfo{journal}{Sem. Nucl.
+  Med.} \textbf{\bibinfo{volume}{32}}, \bibinfo{pages}{13}\bibinfo{year}{
+  (\bibinfo{year}{2002})}}.
+
+\bibitem[{\citenamefont{Graham et~al.}(1987)}]{Graham:1987cy}
+\bibinfo{author}{\bibfnamefont{D.~Y.} \bibnamefont{Graham}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1016/S0140-6736(87)92145-3}{\bibinfo{journal}{The
+  Lancet} \textbf{\bibinfo{volume}{329}}, \bibinfo{pages}{1174}\bibinfo{year}{
+  (\bibinfo{year}{1987})}}.
+
+\bibitem[{\citenamefont{Bharucha et~al.}(2012)}]{Bharucha:2012eu}
+\bibinfo{author}{\bibfnamefont{A.~E.} \bibnamefont{Bharucha}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1111/nmo.12054}{\bibinfo{journal}{Neurogastroenterology
+  {\&} Motility} \textbf{\bibinfo{volume}{25}},
+  \bibinfo{pages}{e60}\bibinfo{year}{ (\bibinfo{year}{2012})}}.
+
+\bibitem[{\citenamefont{Zakova and Wallenius}(2012)}]{Zakova:2012dy}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Zakova}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Wallenius}},
+  \href{http://dx.doi.org/10.1016/j.anucene.2012.03.033}{\bibinfo{journal}{Ann.
+  Nucl. Energy} \textbf{\bibinfo{volume}{47}},
+  \bibinfo{pages}{182}\bibinfo{year}{ (\bibinfo{year}{2012})}}.
+
+\bibitem[{\citenamefont{Youinou and Sen}(2014)}]{Youinou:2014dv}
+\bibinfo{author}{\bibfnamefont{G.~J.} \bibnamefont{Youinou}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{R.~S.} \bibnamefont{Sen}},
+  \href{http://dx.doi.org/10.13182/NT14-22}{\bibinfo{journal}{Nucl. Technol.}
+  \textbf{\bibinfo{volume}{188}}, \bibinfo{pages}{123}\bibinfo{year}{
+  (\bibinfo{year}{2014})}}.
+
+\bibitem[{\citenamefont{Jaques et~al.}(2015)}]{Jaques:2015cw}
+\bibinfo{author}{\bibfnamefont{B.~J.} \bibnamefont{Jaques}}
+  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1016/j.jnucmat.2015.06.029}{\bibinfo{journal}{J.
+  Nucl. Mat.} \textbf{\bibinfo{volume}{466}},
+  \bibinfo{pages}{745}\bibinfo{year}{ (\bibinfo{year}{2015})}}.
+
+\bibitem[{\citenamefont{Hayes et~al.}(1990{\natexlab{a}})\citenamefont{Hayes,
+  Thomas, and Peddicord}}]{Hayes:1990hz}
+\bibinfo{author}{\bibfnamefont{S.~L.} \bibnamefont{Hayes}},
+  \bibinfo{author}{\bibfnamefont{J.~K.} \bibnamefont{Thomas}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{K.~L.}
+  \bibnamefont{Peddicord}},
+  \href{http://dx.doi.org/10.1016/0022-3115(90)90376-X}{\bibinfo{journal}{J.
+  Nucl. Mat.} \textbf{\bibinfo{volume}{171}},
+  \bibinfo{pages}{289}\bibinfo{year}{ (\bibinfo{year}{1990}{\natexlab{a}})}}.
+
+\bibitem[{\citenamefont{Hayes et~al.}(1990{\natexlab{b}})\citenamefont{Hayes,
+  Thomas, and Peddicord}}]{Hayes:1990go}
+\bibinfo{author}{\bibfnamefont{S.~L.} \bibnamefont{Hayes}},
+  \bibinfo{author}{\bibfnamefont{J.~K.} \bibnamefont{Thomas}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{K.~L.}
+  \bibnamefont{Peddicord}},
+  \href{http://dx.doi.org/10.1016/0022-3115(90)90377-Y}{\bibinfo{journal}{J.
+  Nucl. Mat.} \textbf{\bibinfo{volume}{171}},
+  \bibinfo{pages}{300}\bibinfo{year}{ (\bibinfo{year}{1990}{\natexlab{b}})}}.
+
+\bibitem[{\citenamefont{Zhao et~al.}(2014)}]{Zhao:2014ia}
+\bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Zhao}}  \bibnamefont{et~al.},
+  \href{http://dx.doi.org/10.1016/j.pnucene.2013.11.008}{\bibinfo{journal}{Progr.
+  Nucl. Energy} \textbf{\bibinfo{volume}{71}},
+  \bibinfo{pages}{152}\bibinfo{year}{ (\bibinfo{year}{2014})}}.
+
+\end{thebibliography}
