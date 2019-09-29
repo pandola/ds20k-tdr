@@ -1,49 +1,47 @@
 %---
-\section{Technical Design}
+\newpage
+
+\section{Logistics and services}
 \label{sec:TechnicalDesign}
 
-{\bf\color{red}
-
-Viene descritto lo spazio richiesto presso le aree dei laboratori di superficie e sotterranei.
-In questa parte inoltre vengono descritte nel dettaglio tutte le scelte tecniche fatte, la loro implementazione e conseguentemente i sistemi e sottosistemi. In particolare si richiedono le specifiche funzionali e tecniche dell’infrastruttura, degli impianti e delle attrezzature in termini di:
-\begin{itemize}
-\item opere civili, 
-\item impianti elettrici, 
-\item HVAC (riscaldamento, ventilazione e condizionamento dell’aria), 
-\item acqua di raffreddamento/ deionizzata, 
-\item aria compressa,
-\item attrezzature in pressione, 
-\item sistemi da vuoto e criogenici, 
-\item sistemi di sollevamento e trasporto, 
-\item supervisione e controllo, 
-\item sicurezza, 
-\item  IT, 
-\item radioprotezione, 
-\item meccanica, 
-\item elettronica.
-\end{itemize}
-Si richiede di allegare i documenti tecnici al momento disponibili dalla Collaborazione (esempio: P\&I, schede tecniche, elaborati tecnici, …).
-}
-
-\vspace{1cm}
+%{\bf\color{red}
+%Viene descritto lo spazio richiesto presso le aree dei laboratori di superficie e sotterranei.
+%In questa parte inoltre vengono descritte nel dettaglio tutte le scelte tecniche fatte, la loro %implementazione e conseguentemente i sistemi e sottosistemi. In particolare si richiedono le specifiche %funzionali e tecniche dell’infrastruttura, degli impianti e delle attrezzature in termini di:
+%\begin{itemize}
+%\item opere civili, 
+%\item impianti elettrici, 
+%\item HVAC (riscaldamento, ventilazione e condizionamento dell’aria), 
+%\item acqua di raffreddamento/ deionizzata, 
+%\item aria compressa,
+%\item attrezzature in pressione, 
+%\item sistemi da vuoto e criogenici, 
+%\item sistemi di sollevamento e trasporto, 
+%\item supervisione e controllo, 
+%\item sicurezza, 
+%\item  IT, 
+%\item radioprotezione, 
+%\item meccanica, 
+%\item elettronica.
+%\end{itemize}
+%Si richiede di allegare i documenti tecnici al momento disponibili dalla Collaborazione (esempio: P\&I, schede tecniche, elaborati tecnici, …).
+%}
 
 %--
-\subsection{Installation Space and Services Needed}
+%\subsection{Installation Space and Services Needed}
+%\label{sec:SpaceAndService}
+
+The complex installation procedures has been described in details in Section~\ref{sec:InstallationSequence}. Here we give the general overall size of the needed spaces and services to be available in Hall C for a smooth, fast and successful construction of the \DSks detector as described in the previous chapter, and for the operations of the detector.
+
+It is to be noted preliminary that the installation sequence is designed to use all the Hall-C floor from the entrance up to the CTF and other Borexino installations. This arrangement which anticipate vacating the space allocated, as of this writing, to the Sabre PoP is optimal from the point of view of simplifying and thus speeding up considerably the installation of the outer cryostat. In addition the same space would be used for installation of counting rooms and other vital equipment for 
+\DSk that otherwise would need to be installed on steel structures overhanging the Sabre PoP space, complicating the design, the cost and the construction phase of those structures.
+In particular we stress that in the installation sequence discussed previously, the Sabre PoP area is foreseen as working area for outer cryostat lateral walls pre-assembly and as temporary disposal area for inner cold structure membrane parts. After the outer cryostat completion, that area will be used to mount the metallic structure supporting cryogenics systems and counting/control rooms. This is illustrated in the final configuration of \DSk detector and facilities shown in Figure~\ref{fig:Ds20kInstallSequence5} where we find on the left side of the outer cryostat, corresponding to current Sabre PoP area, the metallic structure with cryogenics services and counting/control rooms, and on the right side, close to Hall-C entrance, the radon free clean room. 
+
+\vspace{1cm}
+
+In the following we give a summary of the requirements and needs for the installation and for the operations of the \DSk detector, in terms of working area needs, space allocations, electricity, services, disposals and cryogenics.
+
+\subsection{Installation Space and Working Area}
 \label{sec:SpaceAndService}
-
-The complex installation procedures will be described in details in Section~\ref{sec:InstallationSequence}, here we give the general overall size of the needed spaces and services to be available in Hall C for a smooth, fast and successful construction of the \DSks detector.
-
-\vspace{1cm}
-
-{\bf DISCUSSION OF THE SABRE ISSUE}
-
-It is to be noted preliminarily that the installation sequence is designed to use all the HALL-C floor from the entrance up to the CTF and other Borexino installations. This arrangement which anticipate vacating the space allocated, as of this writing, to the SABRE POP is optimal from the point of view of simplifying and thus speeding up considerably the installation of the outer cryostat. In addition the same space would be used for installation of counting rooms and other vital equipment for 
-\DSk that otherwise would need to be installed on steel structures overhanging the SABRE POP space, complicating the design, cost and construction of those structures.
-(to be elaborated further)
-
-\vspace{1cm}
-
-The requirements for the installation of the \DSk detector are then summarized below:
 
 \begin{itemize}
 
@@ -54,13 +52,12 @@ The requirements for the installation of the \DSk detector are then summarized b
 \item Pressurized air: oil free, 6.3bar, 300 l/min with 3000 l/min peaks.
 \item Availablity of Hall C cranes, in particular:
 \begin{itemize}[label=-]
-\item Use of the 20+20 tons arch crane for cryostat installation and cryostat roof operations
-\item Use of the flat cranes for clean room mounting, test cryostat and TPC mounting operations.
-\item Removal of the 5 ton cranes to optimize the operations of the 20+20 tons arch crane.
+\item Use of the 20+20 tons arch crane for cryostat lateral wall positioning and cryostat roof operations
+\item Use of the flat 5 ton cranes for cryostat parts assembly, metallic structure and clean room mounting, test cryostat and TPC mounting operations.
 \end{itemize}
 \item Unloading Station availability in the TIR gallery.
+\item Temporary disposal area in Surface labs for cryostat parts arriving at LNGS before and during the installation phase. 
 \item Gas detection systems (Oxygen detectors) and fire protection systems in Hall C.
-
 \end{itemize}
 
 %--
@@ -70,31 +67,31 @@ The requirements for the installation of the \DSk detector are then summarized b
 \newcommand{\TotalPowerConsumption}{\SI{222}{\kW}}
 \newcommand{\TotalUPSPowerConsumption}{\SI{85}{\kW}}
 
-A total power of \TotalPowerConsumption  is needed for \DSks:
+A total power of \TotalPowerConsumption is needed for \DSks:
 
 \begin{itemize}
 \item Cryostat (reference as in CERN NP04 cryostat) : 27KW 
-\item	DAQ (see Air Conditioning System) 
-\item	Ancillaries (Water Plant, Exhaust, Radon Abatement System, Lighting): 50KW 
+\item DAQ (see Air Conditioning System) 
+\item Ancillaries (Water Plant, Exhaust, Radon Abatement System, Lighting): 50KW 
 \item Nitrogen Recovery System: 100KW (connection already there in Borex electric box)
-\item Air Conditioning System: 45KW 
+\item Air Conditioning System: 45KW 
 \end{itemize}
 \vspace{\baselineskip}
 
 In addition a powerful UPS line is needed with a total capability of delivering \TotalUPSPowerConsumption for 
 the time needed to put in safe conditions all the delicate equipment: 
 \begin{itemize}
-\item Cryostat and external cryogenics: 10KW
+\item Cryostat and external cryogenics: 10KW
 \item DAQ: 45KW 
 \item Gas Panel: 25KW 
 \item Control System: 5KW 
 \end{itemize}
 
 %--
-\subsection{Nitrogen Argon and Water Services for \DSks Operation}
+\subsection{Nitrogen, Argon and Water Services for \DSks Operation}
 \label{sec:NitrogenArgonAndWater}
 
-For cooling purposes the following water supply is needed:
+For cooling purposes the following Water supply is needed:
 \begin{itemize} 
 \item Cryo-coolers and external cryogenics: TBD 
 \item Detector cryogenics: 1.0 mc/h 
@@ -105,22 +102,21 @@ For cooling purposes the following water supply is needed:
 
 \vspace{\baselineskip}
 
-For Nitrogen and Argon the following is forseen:
+For Nitrogen and Argon the following facilities are foreseen:
 \begin{itemize}
 \item Use of the \SI{20}{\cubic\meter} Nitrogen LINDE tank placed in the TIR gallery (currently in use by \DSf\ and Borexino 
 \item Use of High Purity Nitrogen system
 \item Use of the already exiting Nitrogen recovery system. The system is  ready to be used. It is instrumented with two Stirling engines, and with a distribution system for the recovered nitrogen in gaseous phase and for the disposal of the recovered liquid nitrogen in the 20 m3 LINDE tank.
-\item  Use of a \SI{10}{\cubic\meter} buffer Argon tank for 5.0 Argon to be used for cryostat filling operations and to be located externally to Hall C, along the TIR gallery with a distribution line serving Hall C.
+\item Use of a \SI{10}{\cubic\meter} buffer Argon tank for 5.0 Argon to be used for cryostat filling operations and to be located externally to Hall C, along the TIR gallery with a distribution line serving Hall-C.
 \end{itemize}
-
 
 %--
 \subsection{Underground Argon Storage and Transport}
 \label{sec:UndegroundArgonStorage}
 \begin{itemize}
-\item The current \DSks\ detector and cryogenic services layout implies the use of the TIR gallery for the storage of depleted underground argon (UAr) arriving from the ARIA plant in Sardinia.
+\item The current \DSks\ detector and cryogenic services layout implies the use of the TIR gallery for the storage of depleted underground Argon (UAr) arriving from the ARIA plant in Sardinia.
 \item The UAr transportation system and containers will also play the role of UAr recovery system, it is therefore foreseen that it is disposed in TIR gallery for the whole experiment lifetime.
-\item The dimensions, volumes and operational working points of UAr shipping and storage system will be specified as soon as they will be defined.
+\item The dimensions, volumes and operational working points of UAr shipping and storage system will be specified as soon as they will be defined in detail.
 \end{itemize}
 
 
