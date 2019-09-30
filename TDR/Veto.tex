@@ -15,18 +15,29 @@ Benefiting from the implementation of a \pDUNE-like \AAr\ cryostat, the Veto det
 
 The required thickness of both the \IAB\ and \OAB\ of about \DSkVetoOABThickness\ has been determined by MC simulation. The required thickness of the \GdAS\, determined by the same simulation,  is about \DSkVetoGdASThickness\ with a required \ce{Gd} loading of \DSkVetoGdPercentage\ by weight.  The \GdAS\ moderates neutrons emitted from all of the detector materials, particularly from the ones which make-up and surround the \LArTPC, while also enhancing the neutron capture probability with the inclusion of the \ce{Gd}.  The capture of the neutron on a \ce{Gd} nucleus results in the emission of multiple \grs.  These \grs\ interact in the \IAB\ and \OAB, their detection efficiency setting the required \GdAS\ thickness and \ce{Gd} loading fraction, as well as the minimum required \IAB\ and \OAB\ thickness.  \grs\ are detected by use of scintillation light emitted by the liquefied \AAr\ in both the \IAB\ and \OAB. 
 
+The Veto will be built coupling \GdAS\ plates each one with thickness of \DSkVetoGdAsSheetThickness\, that is half of the nominal one of \DSkVetoGdASThickness\, with liquid Argon flowing in between. The reference size of each vertical plate is approximately 60 X 200 cm. Plates of proper size and shape will be mounted on top and bottom covering the TPC in all the directions.
+Proper holes for cables and services will be allocated.
+
 Vertical segmentation of the \IAB\ and \OAB\ is foreseen to reduce the pile-up rate of \ce{^39Ar} events from the \AAr.  The concept of this is shown in the cut-away view of the detector in the right panel of Figure~\ref{fig:VetoScheme}, while the exact details are still being optimized by use of the Monte Carlo simulation. 
 
 \SiPMs\ will be mounted on the sides of the \GdAS\ such that they are facing both the \IAB\ and \OAB: we foresee about \DSkVetoTotalPDMs\ \SiPMs\ in total, \DSkVetoIABPDMs\ of them facing the \IAB\ and \DSkVetoOABPDMs\ the \OAB\. The basic detector element is the same \DSkPdm\ used in the \TPC, but with a different front-end board coupled to it that is optimized for the geometry of the Veto detector. 
 The baseline option is the use of a front end board realized with a custom ASIC (integrated electronics) developed
 within the DarkSide collaboration.
- Very promising results have been already obtained with 
-a front end board equipped with a prototype ASIC coupled to a tile.
+ Very promising results in terms of signal to noise have been already obtained with 
+a front end board equipped with a prototype ASIC coupled to a tile at cryogenic temperature (see Fig.~\ref{fig:asic_finger}.
+
+\begin{figure}[!t]
+\includegraphics[height=0.3\textheight]{./Figures/Laser7_8_15peaks.pdf}
+\caption[Preliminary Veto ASIC front-end performance.]{Results of tests of the Veto ASIC prototype front-end with tile 49 (single doping) in liquid argon with illumination from laser pulses.
+Peaks corresponding to up 15 photo-electrons are clearly resolved. In these test conditions we had 2.8 mV/phe.}
+\label{fig:asic_finger}
+\end{figure}
+
 Further tests are in progress whose results, together with Montecarlo simulation of the VETO optical response, will set the final specifications (mostly about the necessary dynamic range) of the next ASIC prototype that will be produced and tested in the following months.
+About 10-20 \SiPMs\ will be mounted of each plate and there will be a dedicated control board (called Veto Steering Module) for each plate carrying the bias to \SiPMs\ and control signals. Each plate together with its electronics is then  the basic modular unit of the Veto (Veto Detector Unit- VDU).
 
 All of the inner surfaces of the Veto, including the external walls of the \TPC\ and the walls of the vertical sectors, will be covered with reflector foils coated with wavelenght shifter (TPB), so that the VUV argon scintillation light is shifted to longer wavelengths where the \LAr\ is very transparent. This light is then trapped within a segment of the Veto detector by multiple reflections until it reaches a \SiPM. 
-
-The use of reflector foils coated with TPB is a well proven technology. However, some challenges are related to the need to evaporate TPB on very large surfaces  (of the order of many hundreds square meters), therefore we are also investigating the possibility to use PEN (polyethylene naphthalate) in alternative to TPB.  PEN  reflector foils can be laminated, thus offering a simplified procedure during the preparation and assembly phases of the VETO elements. Tests are in progress to confirm that  the optical properties of PEN match our needs.
+The use of reflector foils coated with TPB is a well proven technology. However, some challenges are related to the need to evaporate TPB on very large surfaces  (of the order of many hundreds square meters), therefore we are also investigating the possibility to use PEN (polyethylene naphthalate) in alternative to TPB.  PEN  reflector foils can be laminated, thus offering a simplified procedure during the preparation and assembly phases of the VETO elements. Tests are in progress to confirm that the fluorescence yield~\cite{marcin} of PEN matches our needs.
 
 The optimal number of segments is being studied with Monte Carlo simulation. We expect no more than \DSkVetoMaxSectorPerSide\ segments for each edge of the octagon. The segments are not liquid tight to allow flow of the argon through them, with a dedicated fluid-dynamics simulation planned to be performed to ensure that the \LAr\ can be properly re-circulated throughout the proposed geometry.
 
