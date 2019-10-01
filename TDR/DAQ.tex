@@ -1,5 +1,5 @@
 %---
-\section{Data Acquisition}
+\subsection{Data Acquisition}
 \label{sec:DAQ}
 
 The current design for the \DSks\ electronics and its data acquisition system (\DAQ) accommodates both the large number of sensors and the long drift-time (expected maximum electron drift time is \DSkDriftTimeBig) of the \LArTPC, as well as the readout of the Veto detector.  The trigger rate during normal dark matter search data taking has three major contributions: background events from detector materials, background events from \ce{^39Ar}, and random triggers.  In order to estimate the first term, the event rate measured in the \UAr\ exposures of \DSfs\ is taken, excluding the contribution from the \PMTs\ and from the remaining \ce{^39Ar} in \DSfs.  This is scaled by the ratio of surface areas of \DSks\ and \DSfs, a factor of \DSkOverDSfAreaRatio, obtaining an expected rate of \DSkTriggerSurfaceRate.  It is noted that these events will be concentrated at the surfaces of the active volume.  
@@ -8,7 +8,7 @@ By using \UAr\ and making the assumption of an \ce{^39Ar} reduction factor of \D
 
 
 %---
-\subsection{General DAQ scheme}
+\subsubsection{General DAQ scheme}
 
 The baseline scheme for the \TPC\ and Veto detector \DAQ\ electronics hardware foresees an optical signal receiver feeding a differential signal to a flash ADC digitizer board that is connected to a large Field Programmable Gate Array (\FPGA).  The digital filtering capability within the digitizer board would allow the discrimination of single photoelectron signals and the determination of the time and charge of the individual channel pulses.  For large and slow signals, such as the \STwo\ ionization-born pulses in the \TPC, the digitizer board would provide a downsampled waveform matching the expected signal bandwidth of a few \si{\MHz}. 
 
@@ -24,7 +24,7 @@ The \DAQ\ system will be located in an electronics room which will be placed on 
 
 
 %---
-\subsection{Digitizers}
+\subsubsection{Digitizers}
 
 The basic readout element of the proposed \DSks\ \DAQ\ system is a multi-channel board hosting several fast \ADCs\ linked to a large \FPGA\ for digital signal processing.  This will be connected to a host \CPU\ for control, monitoring and data formatting using as an output channel through a \DSkDAQEthernetRate\ ethernet connection to an external computer.  The \ADC\ will have \DSkDAQADCBits\ bits resolution and \DSkDAQADCSamplingRate\ sampling speed.  The board will accommodate one octal fADC chip for each of the \num{8} mezzanine boards, allowing if to handle 64 channels in total with a single board with a VME64~6U form factor.  Data from the \ADCs\ will be sent using high bandwidth JESD interface directly to a large \FPGA.  The board will host a Xylinx made Zync Ultrascale+ with a quad-core ARM Cortex A53 processor.  Recent progress on this development includes the full implementation of the JESD interface and the ability to output data at the maximum specified speed.  Specialized firmware is to be provided by the collaboration for noise filtering, basic data formatting and zero suppression to be implemented in the \FPGA.
 
@@ -32,7 +32,7 @@ The development of this electronics board is an ongoing partnership between  the
 
 
 %---
-\subsection{DAQ software}
+\subsubsection{DAQ software}
 
 The Maximum Integrated Data Acquisition System (MIDAS) has been chosen as a framework for developing the \DAQ\ readout and related online control software for the \DSks\ detector.  The \MIDAS\ \DAQ\ package has been used extensively within the DEAP-3600 experiment, and together with the \CAEN\ hardware provides a nice baseline for the digitization and recording of the raw data. A collaboration between the \MIDAS\ and \CAEN\ developers has been established to ensure that the interfacing of the front-end hardware is compatible with the back-end hardware and software that will ultimately compile and write the data to permanent storage.
 

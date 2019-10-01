@@ -1,8 +1,8 @@
-\section{Veto Detector}
+\subsection{Veto Detector}
 \label{sec:Veto}
 
 %---
-\subsection{Overall Design}
+\subsubsection{Overall Design}
 
 Benefiting from the implementation of a \pDUNE-like \AAr\ cryostat, the Veto detector will utilize \AAr\ as the scintillation material. The Veto detector is composed of three separate volumes; a passive octagonal acrylic shell loaded with gadolinium called the GdA and mounted around the \TPC\ and providing $4-~\pi$ coverage, a  \DSkVetoIABThickness\ thick inner volume of active liquid \AAr\ called the Inner Argon Buffer (IAB) and sandwiched between the \TPC\ vessel and the GdA, a  \DSkVetoOABThickness\ thick outer active volume of \AAr\ called the Outer Argon Buffer (OAB) contained between the GdA and the outer copper Faraday Cage.  The Faraday Cage will contain the Veto and \TPC\ and optically and electrically isolate them from the remaining outermost \AAr\ volume contained within the cryostat.  A schematic drawing of the Veto concept is shown in the left side of Figure~\ref{fig:VetoScheme}, as well as a 3D cut-away drawing which presents the preliminary design.
 
@@ -24,7 +24,7 @@ Vertical segmentation of the \IAB\ and \OAB\ is foreseen to reduce the pile-up r
 The baseline option is the use of a front end board realized with a custom ASIC (integrated electronics) developed
 within the DarkSide collaboration.
  Very promising results in terms of signal to noise have been already obtained with 
-a front end board equipped with a prototype ASIC coupled to a tile at cryogenic temperature (see Fig.~\ref{fig:asic_finger}.
+a front end board equipped with a prototype ASIC coupled to a tile at cryogenic temperature (see Figure~\ref{fig:asic_finger}).
 
 \begin{figure}[!t]
 \includegraphics[height=0.3\textheight]{./Figures/Laser7_8_15peaks.pdf}
@@ -51,7 +51,7 @@ matching our needs.
 
 
 %---
-\subsection{Assembly}
+\subsubsection{Assembly}
 
 The assembly sequence starts with the mounting of the bottom part of the GdAS along with its \DSkPdms. This component will rest on a stainless steel support structure (Veto support structure) that is itself supported by the cryostat floor via temporary feet. The \TPC\ is then lowered into its place above the bottom of the Veto detector. Once in place, the TPC is mechanically connected to the support structure of the Veto through mounting pillars. This choice has been driven by the aim of reducing the mass of the support structure of the TPC and avoiding relative movements between the TPC and the VETO during construction, commissioning and detector operation. 
 
@@ -67,7 +67,7 @@ Once the \TPC\ is fixed to the Veto support structure, the lateral panels of the
 \end{figure}
 
 %----
-\subsection{Background Rejection}
+\subsubsection{Background Rejection}
 
 The combination of the signals occurring inside the \IAB\ and \OAB, within a given time window, is used to tag and reject neutron captures.  If a neutron produces a signal in the \TPC, it will mimic that of a \WIMP\ signal, meaning that it produces a single energy deposit with energy in the range \DSkROIEnergyRange.  This also includes fiducial volume cuts which exclude events occurring at a distance from the \TPC\ walls less than \DSkVetoFVTPCcut\ in the radial direction and less than \DSkVetoFVTPCcutz\ from the top and bottom.  For events that pass this fiducialization, the Veto is then searched within a time window of  \DSkVetoTimeCut\ around the \TPC\ trigger time. To minimize dead time losses due to $\beta$-decay from \ce{^39Ar} in the veto filled with \AAr,  a \ABSingleThreshold\ threshold is set for each of the two parts of the Veto detector, while a lower \ABCoincidenceThreshold\ threshold is set for events with coincidence signals in both parts of the Veto detector.
 
