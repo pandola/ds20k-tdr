@@ -25,14 +25,6 @@ A cryostat for \DSps\ has been built by Tecno Alarm, s.r.l., Roma, and delivered
 \label{fig:proto-cern}
 \end{figure}
 
-Assembly and test of the \DSks\ cryogenics will take place at \CERN, during the summer and last quarter of 2019. Construction of \DSps\ is expected at the end of 2019 or early 2020. The first test operation with a reduced number of photosensors is expected by summer 2019, followed by a second operation with a full complement of \DSkPdms\ by early 2020. Full characterization of the prototype performance and physics runs will be performed after installation at LNGS. The detailed program of the activities to be carried out underground is under study.
-
-We anticipate that, since the \DSps\ will be a stand alone system, sharing the \DSks\ cryogenics system at \LNGS\ will not be possible. However over the past few years of R\&D for the \DSks\ cryogenics, we have realized and tested several key components which will be more than capable of handling the prototype system. These parts can be used for \DSps\ with minor system integration together with most of the \DSfs\ and existing R\&D devices.
-
-\subsubsection{The \DSps\ \TPC}
-
-The \DSps\ \TPC\ mechanics, including the structural elements, the field cage, the reflector cage, the transparent cathode, the transparent anode (also serving as a diving bell for the containment of the gaseous phase), the \SiPM\ \DSkPdm\ assemblies, the high-voltage feed through system, will all be built utilizing, on a scaled down overall dimension, the same design and construction techniques foreseen for the baseline of \DSks\ (see Figure~\ref{fig:proto_1ton}). 
-
 \begin{figure}[!t]
 \centering
 %\includegraphics[height=0.95\textheight]{./Figures/proto_1ton.png}
@@ -40,6 +32,14 @@ The \DSps\ \TPC\ mechanics, including the structural elements, the field cage, t
 \caption[Conceptual design of the \DSps\ detector]{Conceptual Design of the \DSps\ detector.  The cryostat has already been built and delivered at \CERN, see \reffig{proto-cern}.}
 \label{fig:proto_1ton}
 \end{figure}
+
+Assembly and test of the \DSks\ cryogenics will take place at \CERN, during the summer and last quarter of 2019. Construction of \DSps\ is expected at the end of 2019 or early 2020. The first test operation with a reduced number of photosensors is expected by summer 2019, followed by a second operation with a full complement of \DSkPdms\ by early 2020. Full characterization of the prototype performance and physics runs will be performed after installation at LNGS. The detailed program of the activities to be carried out underground is under study.
+
+We anticipate that, since the \DSps\ will be a stand alone system, sharing the \DSks\ cryogenics system at \LNGS\ will not be possible. However over the past few years of R\&D for the \DSks\ cryogenics, we have realized and tested several key components which will be more than capable of handling the prototype system. These parts can be used for \DSps\ with minor system integration together with most of the \DSfs\ and existing R\&D devices.
+
+\subsubsection{The \DSps\ \TPC}
+
+The \DSps\ \TPC\ mechanics, including the structural elements, the field cage, the reflector cage, the transparent cathode, the transparent anode (also serving as a diving bell for the containment of the gaseous phase), the \SiPM\ \DSkPdm\ assemblies, the high-voltage feed through system, will all be built utilizing, on a scaled down overall dimension, the same design and construction techniques foreseen for the baseline of \DSks\ (see Figure~\ref{fig:proto_1ton}). 
 
 The photodetector modules will be arranged to cover the top and bottom of the \TPC. Both top and bottom planes consist of \DSpPdmsHalfNumber\ photodetector modules assembled into \DSpSQBsNumber\ \SQBs\ and \DSpTRBsNumber\ \TRBs. As described in section~\ref{sec:DAQ}, the readout chain will employ commercial components used during the first phase, allowing for full digitization of the signals.  The final electronics components that will be used in \DSks\ will be used as they become available at each stage of the development. It is also foreseen that the optical signal transmission will be tested on a significant number of channels with this detector.
 
@@ -60,22 +60,22 @@ Since \DSps\ is a test bench of \DSks, it won't be used to demonstrate the mater
 
 The assessment of the \DSps\ radioactive budget will be obtained through the material assay campaign and the Monte Carlo simulation. The validation of the predictions concerning the neutron/gamma originated by the material contamination will be only possible through data taken underground with the \DSps\ deployed in a properly shielded environment. A physics run, focused on the low-mass WIMP search, will be eventually possible with the \STwo-only analysis in the keV region. In this context, the minimization of the low-energy gamma background of the prototype will be extremely important to employ as early as possible.
 
-
-%---
-\subsubsection{Validation tests and operation}
-
-Upon successful completion of the test phase of the different parts, we plan to measure the overall performance of the \DSps\ through some key parameters, such as the \SOne\ light yield, the electron drift time, electro-luminescence field and gas pocket thickness uniformity for high resolution of \STwo\ signals and the $x y$ position reconstruction. For the purpose of optimizing the \STwo\ signals, the first two Motherboards will be assembled into a small \TPC\ with reduced size drift length (\DSpZeroDriftLength) to avoid pile-up (see Figure~\ref{fig:mini-proto}). Full test of the \SOne\ response and therefore of the \SiPM\ readout chain can be obtained at the surface by switching off the electroluminescence field. The configuration of the gas pocket (geometry and field) can be varied by changing the distance between the anode and the wire grid, the width of the gas pocket, as well as the electro-luminescence field. The \STwo\ pulse shape can be precisely studied along with different gas pocket configurations, aiming to provide us the best solution for the future \LArTPC\ design.  This set-up will also allow for early studies of the \STwo\ formation and readout, to be carried out while the pre-production of the remaining Motherboards of the prototype is ongoing. The final set-up is shown in Fig.~\ref{fig:mini-proto}, equipped with two \DSkMBs. Currently a TPC equipped with only one mockup \DSkMB\ above the anode has been built and is undergoing test in \LAr. Upon completion of this first preliminary test a functioning \DSkMB\ equipped with pre-production \DSkPdms\ will be installed in the TPC and a first run will be performed to study specifically \STwo\ signal.
-
 \begin{figure}[!t]
 \centering
-\includegraphics[height=0.8\textheight]{./Figures/mini-proto.png}
+\includegraphics[height=0.6\textheight]{./Figures/mini-proto.png}
 \caption[Schematics of the setup for the optimization of the \STwo\ signals]{Schematics of the setup for the optimization of the \STwo\ signals.}
 \label{fig:mini-proto}
 \end{figure}
 
 \begin{figure}[!t]
 \centering
-\includegraphics[angle=-90,width=0.8\textwidth]{./Figures/proto0_mockup.jpeg}
+\includegraphics[angle=-90,width=0.6\textwidth]{./Figures/proto0_mockup.jpeg}
 \caption[Picture of the mounted test TPC for the optimization of the \STwo\ signals.]{Picture of the mounted test TPC for the optimization of the \STwo\ signals.}
 \label{fig:proto0_mockup}
 \end{figure}
+
+%---
+\subsubsection{Validation tests and operation}
+
+Upon successful completion of the test phase of the different parts, we plan to measure the overall performance of the \DSps\ through some key parameters, such as the \SOne\ light yield, the electron drift time, electro-luminescence field and gas pocket thickness uniformity for high resolution of \STwo\ signals and the $x y$ position reconstruction. For the purpose of optimizing the \STwo\ signals, the first two Motherboards will be assembled into a small \TPC\ with reduced size drift length (\DSpZeroDriftLength) to avoid pile-up (see Figure~\ref{fig:mini-proto}). Full test of the \SOne\ response and therefore of the \SiPM\ readout chain can be obtained at the surface by switching off the electroluminescence field. The configuration of the gas pocket (geometry and field) can be varied by changing the distance between the anode and the wire grid, the width of the gas pocket, as well as the electro-luminescence field. The \STwo\ pulse shape can be precisely studied along with different gas pocket configurations, aiming to provide us the best solution for the future \LArTPC\ design.  This set-up will also allow for early studies of the \STwo\ formation and readout, to be carried out while the pre-production of the remaining Motherboards of the prototype is ongoing. The final set-up is shown in Fig.~\ref{fig:mini-proto}, equipped with two \DSkMBs. Currently a TPC equipped with only one mockup \DSkMB\ above the anode has been built and is undergoing test in \LAr. Upon completion of this first preliminary test a functioning \DSkMB\ equipped with pre-production \DSkPdms\ will be installed in the TPC and a first run will be performed to study specifically \STwo\ signal.
+
