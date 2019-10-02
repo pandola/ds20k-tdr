@@ -94,7 +94,14 @@ The measurements of the relative volatility of argon isotopes~\cite{Boato:1962hg
 
 The design of the \Aria\ plant was optimized on the basis of high-precision numerical methods for estimating the isotopic separation of \ce{^39Ar} from \ce{^40Ar}.  \DS\ Collaborators developed two independent numerical codes, one based on the McCabe-Thiele method~\cite{McCabe:1925be}, and a second based on the Fenske-Underwood-Gilliland (FUG) method and its derivative, the Wynn-Underwood-Gilliland (WUG) method~\cite{Underwood:1949dw,Gilliland:1940ja,Fenske:1932do}.  Calculations for the isotopic separation power of \ce{^39Ar} from \ce{^40Ar} and of the processing rate were performed with the custom codes, as well as with software routines supported by commercial chemical engineering CAD programs, such as Aspen~\cite{AspenTechnologyInc:2015ux}.
 
-Fig.~\ref{fig:Aria-Block-Diagram} illustrates the core of the process for isotopically separating \ce{^39Ar} from \ce{^40Ar}. The process consists mainly of two loops: the process loop where the argon is distilled and the \ce{^39Ar} is separated from the \ce{^40Ar}, and the refrigeration loop where nitrogen gas and liquid is used to evaporate and to condense the argon. Most of the heat is recovered, thanks to the compressor that pumps the nitrogen gas evaporated in the condenser to the reboiler and to the pumps that move the liquid nitrogen produced in the reboiler to the condenser, making the system as efficient as possible.  In Fig.~\ref{fig:Aria-Block-Diagram} all the sub-parts of the plant are represented:
+\begin{figure*}[!t]
+\centering
+\includegraphics[width=\textwidth]{./Figures/Aria-Block-Diagram.pdf}
+\caption[Block diagram of \Aria]{Block diagram of the cryogenic system of the \Aria\ plant.}
+\label{fig:Aria-Block-Diagram}
+\end{figure*}
+
+Fig.~\ref{fig:Aria-Block-Diagram} illustrates conceptually the Aria plant. The process for isotopically separating \ce{^39Ar} from \ce{^40Ar} consists primarily of two loops: the process loop where the argon is distilled and the \ce{^39Ar} is separated from the \ce{^40Ar}, and the refrigeration loop where nitrogen gas and liquid is used to evaporate and to condense the argon. Most of the heat is recovered, thanks to the compressor that pumps the nitrogen gas evaporated in the condenser to the reboiler and to the pumps that move the liquid nitrogen produced in the reboiler to the condenser, making the system as efficient as possible.  In Fig.~\ref{fig:Aria-Block-Diagram} all the sub-parts of the plant are represented:
 \begin{compactitem}
 \item Feed station, to filter and regulate the feed to the column;
 \item Compressor station, to bottle the distillate at the bottom;
@@ -103,21 +110,22 @@ Fig.~\ref{fig:Aria-Block-Diagram} illustrates the core of the process for isotop
 \item Nitrogen condenser system, consisting of 4 Stirling cryo-refrigerators needed to re-condense the nitrogen, used in a closed loop.
 \end{compactitem}
 
-\SeruciOne\ will consist of \AriaCentralModulesNumber\ modules of \AriaCentralModulesHeight\ height, plus a top module (condenser) and a bottom module (reboiler). 
+\SeruciOne\ will consist of \AriaCentralModulesNumber\ modules of \AriaCentralModulesHeight\ height, plus a top module (condenser) and a bottom module (reboiler).
 % \SeruciOne\ will serve to prove the isotopic separation power of the cryogenic distillation method.  \SeruciOne.  All modules will be pre-assembled at the factory and ready for deployment in the shaft.  The refurbishment of the \SeruciOne\ mine shaft is now well underway, in order to make it suitable to host the column.  The availability of the unused well in the mining site of \SeruciOne\ to house the column will allow for the construction of the plant with minimal environmental impact and relatively low cost. Once completed, it will be the highest distillation column in the world. 
-
-\begin{figure*}[!t]
-\centering
-\includegraphics[width=\textwidth]{./Figures/Aria-Block-Diagram.pdf}
-\caption[Block diagram of \Aria]{Block diagram of the cryogenic system of the \Aria\ plant.}
-\label{fig:Aria-Block-Diagram}
-\end{figure*}
 
 Calculations indicate that \SeruciOne\ will be able to process \UAr\ at a rate of \AriaChemicalRate\ removing all chemical impurities (including traces of \ce{N2}, \ce{O2}, and \ce{Kr}) with a separation power better than \AriaChemicalPerPass\ per pass.  Additionally, \SeruciOne\ can be used in a different mode of operations to test the isotopic separation of the argon, in order to further reduce the \ce{^39Ar} content in the \UAr.  The same models which have been used to calculate the chemical purification rate, have also been used to show that \SeruciOne\ would be able to isotopically separate the \UAr\ at a rate of \AriaSeruciOneRate, while obtaining an \ce{^39Ar} depletion factor of \AriaDepletionPerPass\ per pass. 
 
 All modules for \SeruciOne\ have already been built and passed a series of quality assurance checks.  During the first check, the process column and all the service pipes were individually checked for leaks at room temperature.  Then, the pipes were wrapped with super-insulation and everything was assembled into the cold box.  The second check was a full module check, with an additional check done on the bottom reboiler module at \SI{77}{\kelvin}.  To date, all modules have passed both checks at room temperature and the bottom module has passed the final cold temperature check.  
 
-\SeruciZero\ is a  test column,  installed in a outdoor assembly hall at Nuraxi Figus, Italy, seen in Figure~\ref{fig:SeruciZero}, that is made with the  \SeruciOne\ top and bottom modules and  a single central module.  The goal  of \SeruciZero\ is  to confirm the proper operation of the three main components of the \SeruciOne\ column, as well as to gain experience in operating the column on a smaller scale and to put in place the standard operating procedures.  
+\begin{figure*}[!t]
+\centering
+\includegraphics[width=0.9\textwidth]{./Figures/Seruci0_column_PandID.pdf}
+\caption[P\& ID of \Aria]{Piping \& Instrument Diagram for \SeruciZero. The design for \SeruciOne\ is identical with the execption of the number of central modules: \AriaCentralModulesNumber\ instead of just 1. The N2 cooling circuit is included with the two Vanzetti pumps (P-101 e P-102) and the Kaeser compressor (K-101).}
+\label{fig:Aria-PandID}
+\end{figure*}
+
+\SeruciZero\ is a  test column, whose complete P\&ID is shown in 
+Figure~\ref{fig:Aria-PandID}, that is made with the  \SeruciOne\ top and bottom modules and  a single central module. The plant  has been installed in a outdoor assembly hall at Nuraxi Figus, Italy, seen in Figure~\ref{fig:SeruciZero}.  The goal  of \SeruciZero\ is  to confirm the proper operation of the three main components of the \SeruciOne\ column, as well as to gain experience in operating the column on a smaller scale and to put in place the standard operating procedures.  
 During the month of July 2019 the test column was put in operation with nitrogen both as refrigerant and liquid to be distilled. Stable distillation conditions were reached during more than two weeks time. A new run is foreseen during October 2019 to precisely determine distillation parameters and verify the theoretical predictions. A run with argon is also foreseen to test the plant operation with the final gas.
 
 \begin{figure*}[!t]
